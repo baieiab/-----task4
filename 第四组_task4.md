@@ -25,7 +25,7 @@
 满足上述需求的系统主要包括下面几个模块：
 
 
-![alt next](http://ww4.sinaimg.cn/bmiddle/a0261fbdtw1e56pxxtytvj20cc0620st.jpg"功能图")
+![alt next](http://ww4.sinaimg.cn/bmiddle/a0261fbdtw1e56pxxtytvj20cc0620st.jpg "功能图")
 
 
 
